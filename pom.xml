@@ -43,7 +43,7 @@
     <distributionManagement>
         <repository>
             <id>nexus-releases</id> <!-- Match this ID with the settings.xml -->
-            <url>http://16.171.56.228:8081/repository/project2javapackages/</url>
+            <url>http://13.53.172.234:8081/repository/javapackages/</url>
         </repository>
 </distributionManagement>
 </project>
